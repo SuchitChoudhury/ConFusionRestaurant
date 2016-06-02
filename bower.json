@@ -1,0 +1,23 @@
+{
+  "name": "conFusion",
+  "description": "Website for an awesome resturant",
+  "main": "index.html",
+  "keywords": [
+    "conFusion",
+    "fusion",
+    "restaurant"
+  ],
+  "authors": [
+    "Suchit Choudhury"
+  ],
+  "license": "MIT",
+  "homepage": "yes",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
